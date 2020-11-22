@@ -1,4 +1,4 @@
-package com.example.ie3a_2180020naviwork06.ui.home
+package com.example.ECCGUIDE.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -1,4 +1,4 @@
-package com.example.ie3a_2180020naviwork06
+package com.example.ECCGUIDE
 
 import android.os.Bundle
 import android.view.Menu
