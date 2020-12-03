@@ -1,3 +1,1 @@
-# ECCGUIDE
-
-ECC案内
+Android Test
